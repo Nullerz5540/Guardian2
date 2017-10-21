@@ -1,0 +1,17 @@
+{
+  "name": "guardian",
+  "version": "1.2.5",
+  "description": "NulledRetry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NulledRetry",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "discord.js": "^11.2.1",
+    "moment": "^2.18.1",
+    "ms": "^0.7.3"
+  }
+}
